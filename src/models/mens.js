@@ -34,3 +34,5 @@ const menSchema = new mongoose.Schema({
 
 const MensRanking = new mongoose.model('MensRanking', menSchema);
 module.exports = MensRanking;
+
+// commment added for testing purpose.
